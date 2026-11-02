@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  tags:
+  - Player
+  - Interactable
+  - Food
+  - Station
+  - Customer
+  - Plate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Food
+  - Kitchen
+  - UI_Overlay
+  m_SortingLayers:
+  - uniqueID: 637632overhead
+    name: Default
+    userID: 0
+  - uniqueID: 637632overhead
+    name: Background
+    userID: -100
+  - uniqueID: 637632overhead
+    name: Kitchen
+    userID: -50
+  - uniqueID: 637632overhead
+    name: Food
+    userID: 0
+  - uniqueID: 637632overhead
+    name: Player
+    userID: 50
+  - uniqueID: 637632overhead
+    name: UI
+    userID: 100
